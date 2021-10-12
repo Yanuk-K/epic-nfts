@@ -1,8 +1,8 @@
 # \_Buildspace Project
 
-# Build a Web3 App with Solidity + Ethereum Smart Contracts
+# Mint your own NFT collection and ship a Web3 app to show them off
 
-This React/Solidity project allows users to wave at each other, sending messages and entering a chance to earn ETH.
+This React/Solidity project allows users to mint a SVG randomized NFTs on the Rinkeby testnet
 
 Run/Deploy on Rinkeby
 
